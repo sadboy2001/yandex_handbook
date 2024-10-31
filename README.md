@@ -1,2 +1,2 @@
-# yandex_handbook
-Решение задач из Yandex Handbook
+# Решение задач из Yandex Handbook
+https://education.yandex.ru/handbook/python
